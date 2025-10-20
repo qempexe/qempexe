@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/qempexe">
-    <img width="340" src="https://github-readme-stats.vercel.app/api?username=qempexe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+    <img width="340" src="https://github-readme-stats.vercel.app/api?username=qempexe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qempexe&layout=compact&theme=radical&hide_border=true&langs_count=10" />
   </a>
 </p>
