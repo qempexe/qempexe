@@ -39,7 +39,7 @@
 ### 🔨 In Progress
 - **QeHypr:** Hyprland dotfiles on Arch Linux (soon)
 - **qempexe.com:** Personal website (soon)
-- **Learning Repository:** My journey through web development
+- **Learning Repository:** My journey through web development (soon)
 
 ### 📝 Future Ideas
 - I will
