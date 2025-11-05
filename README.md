@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋 I'm Andrei</h1>
-<h3 align="center">🚀 Software Engineering Student | Linux Enthusiast | Web & App Developer</h3>
+<h3 align="center">🚀 Software Engineering Student | Linux Enthusiast</h3>
 
 
 
