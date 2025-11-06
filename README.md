@@ -42,10 +42,7 @@
 - **Learning Repository:** My journey through web development (soon)
 
 ### 📝 Future Ideas
-- I will
-- mention here
-- when I'll have them
-
+- I will mention here when I'll have them
 
 
 ## 📊 GitHub Stats
