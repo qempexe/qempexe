@@ -37,7 +37,7 @@
 ## 📂 Current Projects
 
 ### 🔨 In Progress
-- **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux (soon)
+- **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux (first version coming in 2026)
 - **qempexe.com:** Personal website (soon)
 - **Learning Repository:** My journey through web development (soon)
 
