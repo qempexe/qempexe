@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi there 👋 I'm Andrei</h1>
-<h3 align="center">🚀 Software Engineering Student | Linux Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Linux Enthusiast</h3>
 
 
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Software Engineering Student** - passionate about technology and coding
-- 🐧 **Linux Enthusiast** - love exploring different distros and open-source tools
-- 💬 **Languages:** Romanian (native), Dutch (fluent), English (fluent)
-- 📍 **Based in:** Belgium
-- ⚡ **Fun fact:** I played in my childhood football and basketball at clubs
+- **Software Engineering Student** - passionate about technology and coding
+- **Linux Enthusiast** - love exploring different distros and open-source tools
+- **Languages:** Romanian (native), Dutch (fluent), English (fluent)
+- **Based in:** Belgium
+- **Fun fact:** I played in my childhood football and basketball at clubs
 
 
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 
 ### Currently Learning
@@ -34,18 +34,18 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![D](https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white)
 
 
-## 📂 Current Projects
+## Current Projects
 
-### 🔨 In Progress
-- **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux (first version coming in 2026)
-- **qempexe.com:** Personal website (soon)
-- **Learning Repository:** My journey through web development (soon)
+### In Progress
+- **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux
+- **qempexe.com:** Personal website
+- **Learning Repository:** soon
 
-### 📝 Future Ideas
+### Future Ideas
 - I will mention here when I'll have them
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/qempexe">
@@ -55,7 +55,7 @@
 </p>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:qempexe@gmail.com">
