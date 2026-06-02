@@ -38,8 +38,8 @@
 
 ### In Progress
 - **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux
-- **qempexe.com:** Personal website
-- **Learning Repository:** soon
+- **qempexe.com:** soon
+- **ESCaholic.com:** soon
 
 ### Future Ideas
 - I will mention here when I'll have them
