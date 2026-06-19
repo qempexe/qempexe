@@ -37,7 +37,6 @@
 ## Current Projects
 
 ### In Progress
-- **Hyprland-Dotfiles:** Hyprland dotfiles on Arch Linux
 - **qempexe.com:** soon
 - **ESCaholic.com:** soon
 
