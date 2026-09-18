@@ -37,8 +37,8 @@
 ## Current Projects
 
 ### In Progress
-- **qempexe.com:** soon
-- **ESCaholic.com:** soon
+- **qempexe.com:** https://qempexe.com
+- **ESCaholic.com:** https://escaholic.com
 
 ### Future Ideas
 - I will mention here when I'll have them
