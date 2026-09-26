@@ -37,8 +37,9 @@
 ## Current Projects
 
 ### In Progress
-- **qempexe.com:** https://qempexe.com
-- **ESCaholic.com:** https://escaholic.com
+- [qempexe](https://qempexe.com)
+- [ESCaholic](https://escaholic.com)
+- [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
 
 ### Future Ideas
 - I will mention here when I'll have them
