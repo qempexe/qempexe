@@ -40,6 +40,7 @@
 - [qempexe](https://qempexe.com)
 - [ESCaholic](https://escaholic.com)
 - [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
+- [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
 
 
 ## Connect With Me
