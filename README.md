@@ -40,6 +40,7 @@
 #### Omarchy
 - [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
 - [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
+- [Window Dust](https://github.com/qempexe/omarchy-window-dust.git)
 
 
 ## Connect With Me
