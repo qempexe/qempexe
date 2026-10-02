@@ -37,6 +37,7 @@
 ## Current Projects
 
 ### Available
+#### Omarchy
 - [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
 - [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
 
