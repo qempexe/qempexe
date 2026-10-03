@@ -41,6 +41,7 @@
 - [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
 - [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
 - [Window Dust](https://github.com/qempexe/omarchy-window-dust.git)
+- [Multi-Docks](https://github.com/qempexe/omarchy-multi-docks.git)
 
 
 ## Connect With Me
