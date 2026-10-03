@@ -37,6 +37,11 @@
 ## Current Projects
 
 ### Available
+
+#### Websites
+- [qempexe](https://qempexe.com)
+- [ESCaholic](https://escaholic.com)
+
 #### Omarchy
 - [Terra Theme for Omarchy](https://github.com/qempexe/omarchy-terra-theme.git)
 - [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
