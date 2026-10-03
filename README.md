@@ -47,6 +47,7 @@
 - [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar.git)
 - [Window Dust](https://github.com/qempexe/omarchy-window-dust.git)
 - [Multi-Docks](https://github.com/qempexe/omarchy-multi-docks.git)
+- [Omatravel](https://github.com/qempexe/omarchy-omatravel.git)
 
 
 ## Connect With Me
