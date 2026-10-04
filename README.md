@@ -48,6 +48,7 @@
 - [Window Dust](https://github.com/qempexe/omarchy-window-dust.git)
 - [Multi-Docks](https://github.com/qempexe/omarchy-multi-docks.git)
 - [Omatravel](https://github.com/qempexe/omarchy-omatravel.git)
+- [Omadrawers](https://github.com/qempexe/omarchy-omadrawers.git)
 
 
 ## Connect With Me
