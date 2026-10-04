@@ -49,6 +49,7 @@
 - [Multi-Docks](https://github.com/qempexe/omarchy-multi-docks.git)
 - [Omatravel](https://github.com/qempexe/omarchy-omatravel.git)
 - [Omadrawers](https://github.com/qempexe/omarchy-omadrawers.git)
+- [Dev-stats](https://github.com/qempexe/omarchy-dev-stats.git)
 
 
 ## Connect With Me
