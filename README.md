@@ -42,7 +42,7 @@
 #### Omarchy Themes
 | Tool | Name | Status |
 | :--- | :--- | :--- |
-| **Theme** | Terra Theme for Omarchy | ![Theme](https://img.shields.io/badge/Theme-Terra-c1440e) |
+| **Theme** | Terra Theme for Omarchy | [![Theme](https://img.shields.io/badge/Theme-Terra-c1440e)](https://github.com/qempexe/omarchy-terra-theme) |
 
 #### Omarchy Plugins
 | Plugin | Purpose | Link |
