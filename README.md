@@ -53,6 +53,7 @@
 | **Omatravel** | Spinning globe, log countries & cities | [![Install](https://img.shields.io/badge/Install-Omatravel-2ecc71)](https://github.com/qempexe/omarchy-omatravel) |
 | **Omadrawers** | Hover drawers to park bar widgets | [![Install](https://img.shields.io/badge/Install-Omadrawers-9b59b6)](https://github.com/qempexe/omarchy-omadrawers) |
 | **Dev-stats** | GitHub-style activity grid on the bar | [![Install](https://img.shields.io/badge/Install-Dev--stats-24292e)](https://github.com/qempexe/omarchy-dev-stats) |
+| **Omaudix** | GitHub-style media player on the bar | [![Install](https://img.shields.io/badge/Install-Omaudix-24292e)](https://github.com/qempexe/omarchy-omaudix) |
 
 ## Connect With Me
 
