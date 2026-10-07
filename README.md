@@ -47,6 +47,7 @@
 #### Omarchy Plugins
 | Plugin | Purpose | Link |
 | :--- | :--- | :--- |
+| **Takuzu for Omarchy** | Takuzu (Binair Sudoku) game on the bar | [![Install](https://img.shields.io/badge/Install-Takuzu-24292e)](https://github.com/qempexe/omarchy-takuzu) |
 | **Recipe Radar** | Pantry → recipe suggestions on the bar | [![Install](https://img.shields.io/badge/Install-Recipe_Radar-orange)](https://github.com/qempexe/omarchy-recipe-radar) |
 | **Window Dust** | Idle windows gather dust, focus cleans them | [![Install](https://img.shields.io/badge/Install-Window_Dust-8b7355)](https://github.com/qempexe/omarchy-window-dust) |
 | **Multi-Docks** | Up to 12 docks, 3 per edge, live previews | [![Install](https://img.shields.io/badge/Install-Multi--Docks-4a90d9)](https://github.com/qempexe/omarchy-multi-docks) |
