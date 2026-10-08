@@ -56,6 +56,7 @@
 | **Dev-stats** | GitHub-style activity grid on the bar | [![Install](https://img.shields.io/badge/Install-Dev--stats-24292e)](https://github.com/qempexe/omarchy-dev-stats) |
 | **Omaudix** | Now-playing visual media widget on the bar | [![Install](https://img.shields.io/badge/Install-Omaudix-24292e)](https://github.com/qempexe/omarchy-omaudix) |
 | **Omanager** | Omarchy plugin manager on the bar | [![Install](https://img.shields.io/badge/Install-Omanager-24292e)](https://github.com/qempexe/omarchy-omanager) |
+| **Omatune** | Omarchy song recognition plugin on the bar | [![Install](https://img.shields.io/badge/Install-Omatune-24292e)](https://github.com/qempexe/omarchy-omatune) |
 
 ## Connect With Me
 
