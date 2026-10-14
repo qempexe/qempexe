@@ -55,7 +55,7 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 | [**Dev Stats**](https://github.com/qempexe/omarchy-dev-stats) | GitHub-style activity grid on the bar | 📊 Dev |
 | [**Omaudix**](https://github.com/qempexe/omarchy-omaudix) | Now-playing visual media widget | 🎵 Media |
 | [**Omatune**](https://github.com/qempexe/omarchy-omatune) | Song recognition from the bar | 🎵 Media |
-| [**Recipe Radar**](https://github.com/qempexe/omarchy-recipe-radar) | Pantry → recipe suggestions | 🍳 Lifestyle |
+| [**Recipe Radar** (private)](https://github.com/qempexe/omarchy-recipe-radar) | Pantry → recipe suggestions | 🍳 Lifestyle |
 | [**Omatravel**](https://github.com/qempexe/omarchy-omatravel) | Spinning globe to log countries and cities | 🌍 Lifestyle |
 | [**Takuzu**](https://github.com/qempexe/omarchy-takuzu) | Takuzu (binary sudoku) game on the bar | 🎮 Fun |
 | [**Window Dust**](https://github.com/qempexe/omarchy-window-dust) | Idle windows gather dust, focusing cleans them | 🎮 Fun |
