@@ -48,10 +48,10 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 
 | Plugin | What it does | Category |
 | :-- | :-- | :-- |
-| [**Omadrawers**](https://github.com/qempexe/omarchy-omadrawers) | Hover drawers to park bar widgets | 🛠️ Utility |
 | [**Omanager**](https://github.com/qempexe/omarchy-omanager) | Plugin manager that lives on the bar | 🛠️ Utility |
 | [**Multi-Docks**](https://github.com/qempexe/omarchy-multi-docks) | Up to 12 docks, 3 per edge, with live previews | 🛠️ Utility |
 | [**omaotp**](https://github.com/qempexe/omarchy-omaotp) | One-Time Passwords for Omarchy | 🛠️ Utility |
+| [**Omadrawers**](https://github.com/qempexe/omarchy-omadrawers) | Hover drawers to park bar widgets | 🛠️ Utility |
 | [**Dev Stats**](https://github.com/qempexe/omarchy-dev-stats) | GitHub-style activity grid on the bar | 📊 Dev |
 | [**Omaudix**](https://github.com/qempexe/omarchy-omaudix) | Now-playing visual media widget | 🎵 Media |
 | [**Omatune**](https://github.com/qempexe/omarchy-omatune) | Song recognition from the bar | 🎵 Media |
