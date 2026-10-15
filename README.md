@@ -12,27 +12,27 @@ West Flanders, Belgium &nbsp;·&nbsp; 🇷🇴 Romanian (native) &nbsp;·&nbsp; 
 
 ---
 
-## 👤 About
+## About
 
 I study Software Engineering at **Howest (Bruges)** and spend most of my free time building real things: a Eurovision fan platform, and a growing collection of plugins and themes for the Linux desktop.
 
-- 🌍 Founder and lead developer of **ESCaholic**, a Eurovision news and stats platform run with a volunteer team
-- 🐧 Daily Linux user, happiest customising my setup and sharing the results as open source
-- 🧱 I like shipping small, polished tools and iterating on them
-- 🏀 Outside of code: played football and basketball in clubs growing up
+- Founder and lead developer of **ESCaholic**, a Eurovision news and stats platform run with a volunteer team
+- Daily Linux user, happiest customising my setup and sharing the results as open source
+- I like shipping small, polished tools and iterating on them
+- Outside of code: played football and basketball in clubs growing up
 
 ---
 
-## 🚀 Projects
+## Projects
 
-| | Project | What it is |
-| :-: | :-- | :-- |
-| 🎤 | [**ESCaholic**](https://escaholic.com) | Eurovision fan news and stats platform. Full technical ownership, built and run with a volunteer team. |
-| 🌐 | [**qempexe.com**](https://qempexe.com) | My personal website. |
+| Project | What it is |
+| :-- | :-- |
+| [**ESCaholic**](https://escaholic.com) | Eurovision fan news and stats platform. Full technical ownership, built and run with a volunteer team. |
+| [**qempexe.com**](https://qempexe.com) | My personal website. |
 
 ---
 
-## 🎨 Omarchy themes
+## Omarchy themes
 
 | Theme | Description |
 | :-- | :-- |
@@ -42,31 +42,25 @@ I study Software Engineering at **Howest (Bruges)** and spend most of my free ti
 
 ---
 
-## 🧩 Omarchy plugins
+## Omarchy plugins
 
-Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and desktop. Every plugin installs and removes cleanly.
+Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and desktop. Every plugin installs and removes cleanly. *Hover a name for what it does.*
 
-| Plugin | What it does | Category |
-| :-- | :-- | :-- |
-| [**Omanager**](https://github.com/qempexe/omarchy-omanager) | Plugin manager that lives on the bar | 🛠️ Utility |
-| [**Multi-Docks**](https://github.com/qempexe/omarchy-multi-docks) | Up to 12 docks, 3 per edge, with live previews | 🛠️ Utility |
-| [**Altscape**](https://github.com/qempexe/omarchy-altscape) | Window Alt+Tab switcher for Omarchy | 🛠️ Utility |
-| [**omaotp**](https://github.com/qempexe/omarchy-omaotp) | One-Time Passwords for Omarchy | 🛠️ Utility |
-| [**Omadrawers**](https://github.com/qempexe/omarchy-omadrawers) | Hover drawers to park bar widgets | 🛠️ Utility |
-| [**Dev Stats**](https://github.com/qempexe/omarchy-dev-stats) | GitHub-style activity grid on the bar | 📊 Dev |
-| [**Omaudix**](https://github.com/qempexe/omarchy-omaudix) | Now-playing visual media widget | 🎵 Media |
-| [**Omatune**](https://github.com/qempexe/omarchy-omatune) | Song recognition from the bar | 🎵 Media |
-| [**Recipe Radar** (private)](https://github.com/qempexe/omarchy-recipe-radar) | Pantry → recipe suggestions | 🍳 Lifestyle |
-| [**Omatravel**](https://github.com/qempexe/omarchy-omatravel) | Spinning globe to log countries and cities | 🌍 Lifestyle |
-| [**Takuzu**](https://github.com/qempexe/omarchy-takuzu) | Takuzu (binary sudoku) game on the bar | 🎮 Fun |
-| [**Window Dust**](https://github.com/qempexe/omarchy-window-dust) | Idle windows gather dust, focusing cleans them | 🎮 Fun |
-| [**Hangman**](https://github.com/qempexe/omarchy-hangman) | Hangman game on the bar | 🎮 Fun |
+| Category | Plugins |
+| :-- | :-- |
+| **Utility** | [Omanager](https://github.com/qempexe/omarchy-omanager "Plugin manager that lives on the bar") · [Multi-Docks](https://github.com/qempexe/omarchy-multi-docks "Up to 12 docks, 3 per edge, with live previews") · [Altscape](https://github.com/qempexe/omarchy-altscape "Window Alt+Tab switcher for Omarchy") · [omaotp](https://github.com/qempexe/omarchy-omaotp "One-Time Passwords for Omarchy") · [Omadrawers](https://github.com/qempexe/omarchy-omadrawers "Hover drawers to park bar widgets") |
+| **Dev** | [Dev Stats](https://github.com/qempexe/omarchy-dev-stats "GitHub-style activity grid on the bar") |
+| **Media** | [Omaudix](https://github.com/qempexe/omarchy-omaudix "Now-playing visual media widget") · [Omatune](https://github.com/qempexe/omarchy-omatune "Song recognition from the bar") |
+| **Lifestyle** | [Omatravel](https://github.com/qempexe/omarchy-omatravel "Spinning globe to log countries and cities") · [Recipe Radar](https://github.com/qempexe/omarchy-recipe-radar "Pantry to recipe suggestions (private)") 🔒 |
+| **Fun** | [Takuzu](https://github.com/qempexe/omarchy-takuzu "Takuzu (binary sudoku) game on the bar") · [Window Dust](https://github.com/qempexe/omarchy-window-dust "Idle windows gather dust, focusing cleans them") · [Hangman](https://github.com/qempexe/omarchy-hangman "Hangman game on the bar") |
 
-<!-- To add a plugin: copy one row above, change name, link, description and category. -->
+<sub>🔒 = private repo</sub>
+
+<!-- To add a plugin: add [Name](link "Short description") to the right category row, separated by " · ". -->
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 **Web**<br>
 ![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,react&theme=dark)
@@ -90,7 +84,7 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 <div align="center">
 
