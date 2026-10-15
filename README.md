@@ -60,6 +60,7 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 | [**Omatravel**](https://github.com/qempexe/omarchy-omatravel) | Spinning globe to log countries and cities | 🌍 Lifestyle |
 | [**Takuzu**](https://github.com/qempexe/omarchy-takuzu) | Takuzu (binary sudoku) game on the bar | 🎮 Fun |
 | [**Window Dust**](https://github.com/qempexe/omarchy-window-dust) | Idle windows gather dust, focusing cleans them | 🎮 Fun |
+| [**Hangman**](https://github.com/qempexe/omarchy-hangman) | Hangman game on the bar | 🎮 Fun |
 
 <!-- To add a plugin: copy one row above, change name, link, description and category. -->
 
