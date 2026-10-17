@@ -29,6 +29,7 @@ I study Software Engineering at **Howest (Bruges)** and spend most of my free ti
 | :-- | :-- |
 | [**ESCaholic**](https://escaholic.com) | Eurovision fan news and stats platform. Full technical ownership, built and run with a volunteer team. |
 | [**qempexe.com**](https://qempexe.com) | My personal website. |
+| [**nudu**](https://github.com/qempexe/nudu) | Terminal disk usage analyzer (in progress) |
 
 ---
 
