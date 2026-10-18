@@ -85,6 +85,10 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qempexe&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
 ## Get in touch
 
 <div align="center">
@@ -96,9 +100,8 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 
 </div>
 
-<!--
-OPTIONAL: GitHub stats card (add back if you like it, can be slow/flaky)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qempexe&show_icons=true&theme=dark&hide_border=true" />
+<a href="https://buymeacoffee.com/qempexe">
+  <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+</a>
 </div>
--->
