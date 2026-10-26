@@ -38,7 +38,7 @@ I study Software Engineering at **Howest (Bruges)** and spend most of my free ti
 | Theme | Description |
 | :-- | :-- |
 | [**Terra**](https://github.com/qempexe/omarchy-terra-theme) | Warm, earthy theme for Omarchy |
-
+| [**Spectral**](https://github.com/qempexe/omarchy-spectral-theme) | Colorful theme for Omarchy |
 <!-- To add a theme: copy the row above and change the name, link and description. -->
 
 ---
