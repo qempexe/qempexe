@@ -86,10 +86,6 @@ Small, focused widgets and tools for the [Omarchy](https://omarchy.org) bar and 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qempexe&show_icons=true&theme=dark&hide_border=true" />
-</div>
-
 ## Get in touch
 
 <div align="center">
